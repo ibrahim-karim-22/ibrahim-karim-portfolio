@@ -44,7 +44,7 @@ function Home() {
                 story. When I’m not crafting the next scene, you’ll find me
                 dreaming about CSS units or solving coding puzzles in my sleep
                 (it’s all a part of the job, right?). After all, the show must
-                go on—even in my dreams.
+                go on, even in my dreams.
               </div>
             </div>
 
